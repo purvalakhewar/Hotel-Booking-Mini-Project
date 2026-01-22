@@ -57,11 +57,17 @@ Room type and meal plan popularity
 Family vs individual booking patterns
 
 Sheets 
-1 <img width="1655" height="805" alt="Screenshot 2026-01-22 162911" src="https://github.com/user-attachments/assets/47bf35d3-3b1c-4460-8b80-bcd3f7918c28" />
-2 <img width="1659" height="807" alt="Screenshot 2026-01-22 162946" src="https://github.com/user-attachments/assets/7fcebef2-1544-403d-82ed-0dd55a82fa57" />
-3 <img width="1655" height="805" alt="Screenshot 2026-01-22 162957" src="https://github.com/user-attachments/assets/fb991987-1963-4f5d-9f4f-83602a2b9b48" />
-4 <img width="1655" height="804" alt="Screenshot 2026-01-22 163008" src="https://github.com/user-attachments/assets/e94c58e0-58dd-439b-bd66-f074f15b0013" />
-5 <img width="1657" height="805" alt="Screenshot 2026-01-22 163032" src="https://github.com/user-attachments/assets/94740925-a1b1-4b3b-8619-bc7e6cb041b0" />
+1 <img width="1654" height="810" alt="Screenshot 2026-01-22 192141" src="https://github.com/user-attachments/assets/da76e41e-3e1b-481f-aa68-d3bf7c2a821f" />
+2 <img width="1657" height="807" alt="Screenshot 2026-01-22 192312" src="https://github.com/user-attachments/assets/24fb3038-7724-4cea-b365-62eb5a1c39c5" />
+3 <img width="1657" height="802" alt="Screenshot 2026-01-22 192328" src="https://github.com/user-attachments/assets/495689e5-3f3b-4262-baed-ea9aa4bb389c" />
+4 <img width="1657" height="812" alt="Screenshot 2026-01-22 192342" src="https://github.com/user-attachments/assets/5cb35f25-2e99-479d-9cd9-d7d66f7ec6d1" />
+5 <img width="1665" height="822" alt="Screenshot 2026-01-22 192353" src="https://github.com/user-attachments/assets/1520934d-2707-4c33-857d-d21d125e2632" />
+6 <img width="1654" height="807" alt="Screenshot 2026-01-22 192403" src="https://github.com/user-attachments/assets/df80f352-af8a-4dc6-9fc1-5a2a15ebc886" />
+7 <img width="1655" height="805" alt="Screenshot 2026-01-22 162911" src="https://github.com/user-attachments/assets/47bf35d3-3b1c-4460-8b80-bcd3f7918c28" />
+8 <img width="1659" height="807" alt="Screenshot 2026-01-22 162946" src="https://github.com/user-attachments/assets/7fcebef2-1544-403d-82ed-0dd55a82fa57" />
+9 <img width="1655" height="805" alt="Screenshot 2026-01-22 162957" src="https://github.com/user-attachments/assets/fb991987-1963-4f5d-9f4f-83602a2b9b48" />
+10 <img width="1655" height="804" alt="Screenshot 2026-01-22 163008" src="https://github.com/user-attachments/assets/e94c58e0-58dd-439b-bd66-f074f15b0013" />
+11 <img width="1657" height="805" alt="Screenshot 2026-01-22 163032" src="https://github.com/user-attachments/assets/94740925-a1b1-4b3b-8619-bc7e6cb041b0" />
 
 Dashboards
 
