@@ -1,5 +1,7 @@
 # Hotel-Booking-Mini-Project
+
 🏨 Hotel Booking Analysis Project
+
 📌 Project Overview
 
 This project focuses on analyzing hotel booking data to understand customer behavior, booking patterns, and revenue trends. The dataset captures key details related to hotel types, customer categories, arrival timelines, room preferences, and pricing metrics. The insights from this analysis can help hotels improve occupancy rates, optimize pricing strategies, and enhance customer satisfaction.
@@ -9,6 +11,7 @@ This project focuses on analyzing hotel booking data to understand customer beha
 The dataset consists of hotel booking records with the following attributes:
 
 Column Name	Description
+
 Booking ID	Unique identifier for each booking
 Hotel Type	Type of hotel (e.g., Resort Hotel, City Hotel)
 Customer Type	Category of customer (e.g., Transient, Contract, Group)
@@ -20,6 +23,7 @@ Children	Number of children in the booking
 Room Type	Type of room reserved
 Market Segment	Booking source or segment (e.g., Online, Corporate, Direct)
 Meal Plan	Meal plan selected by the customer
+
 🎯 Objectives
 
 Analyze booking trends across different hotel types and time periods
@@ -51,6 +55,24 @@ Customer type distribution
 Room type and meal plan popularity
 
 Family vs individual booking patterns
+
+Sheets 
+1 <img width="1655" height="805" alt="Screenshot 2026-01-22 162911" src="https://github.com/user-attachments/assets/47bf35d3-3b1c-4460-8b80-bcd3f7918c28" />
+2 <img width="1659" height="807" alt="Screenshot 2026-01-22 162946" src="https://github.com/user-attachments/assets/7fcebef2-1544-403d-82ed-0dd55a82fa57" />
+3 <img width="1655" height="805" alt="Screenshot 2026-01-22 162957" src="https://github.com/user-attachments/assets/fb991987-1963-4f5d-9f4f-83602a2b9b48" />
+4 <img width="1655" height="804" alt="Screenshot 2026-01-22 163008" src="https://github.com/user-attachments/assets/e94c58e0-58dd-439b-bd66-f074f15b0013" />
+5 <img width="1657" height="805" alt="Screenshot 2026-01-22 163032" src="https://github.com/user-attachments/assets/94740925-a1b1-4b3b-8619-bc7e6cb041b0" />
+
+Dashboards
+
+1 <img width="1655" height="800" alt="Screenshot 2026-01-22 163112" src="https://github.com/user-attachments/assets/3afededf-83ac-485f-923e-f7f03250772c" />
+2 <img width="1657" height="791" alt="Screenshot 2026-01-22 163129" src="https://github.com/user-attachments/assets/f14dfcdd-fabc-4b44-b80f-9be9716b5e64" />
+3 <img width="1658" height="803" alt="Screenshot 2026-01-22 163303" src="https://github.com/user-attachments/assets/806ad93b-0eca-4bd9-a9f1-e4107b995dbc" />
+
+Storytelling
+
+1 <img width="1654" height="791" alt="Screenshot 2026-01-22 163315" src="https://github.com/user-attachments/assets/f60bb2c8-8727-4dfe-85ed-305fcd6859b3" />
+2 <img width="1636" height="793" alt="Screenshot 2026-01-22 163328" src="https://github.com/user-attachments/assets/cbe7a632-2424-4f9c-836c-fcde638f9b1c" />
 
 📌 Insights
 
