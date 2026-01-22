@@ -1,5 +1,7 @@
 # Hotel-Booking-Mini-Project
 
+<img width="941" height="401" alt="Screenshot 2026-01-22 200200" src="https://github.com/user-attachments/assets/d8ae1f96-aca0-4866-bb34-98d53654b6b8" />
+
 🏨 Hotel Booking Analysis Project
 
 📌 Project Overview
