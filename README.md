@@ -2,6 +2,8 @@
 
 <img width="938" height="403" alt="Screenshot 2026-01-22 200335" src="https://github.com/user-attachments/assets/1e7921a2-c75a-47f6-beb1-120e642d1d83" />
 
+
+
 🏨 Hotel Booking Analysis Project
 
 📌 Project Overview
